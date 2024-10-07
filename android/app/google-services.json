@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240457942587",
+    "project_id": "atalakou-57294",
+    "storage_bucket": "atalakou-57294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240457942587:android:4a9ae44ed280ae67fb7e1e",
+        "android_client_info": {
+          "package_name": "com.atalakou"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACzDcCxzHs1m9MZc-g2npzDcHMTcJSfqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
